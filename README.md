@@ -13,3 +13,5 @@ de [Platzi](https://platzi.com "Platzi")
 * Las personalidades múltiples de Freddy
 
 Y como un amable recordatorio: **Este readme.md**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [a ver el curso](https://platzi.com/cursos/git-github/"a ver el curso").
+
+## [Blog](https://zepey21.github.io/hyperblog/blogpost.html)
